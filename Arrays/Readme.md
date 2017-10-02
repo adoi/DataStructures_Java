@@ -1,1 +1,1 @@
-#The solutions for Arrays
+# The solutions for the Arrays section
