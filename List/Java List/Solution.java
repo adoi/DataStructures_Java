@@ -35,7 +35,7 @@ public class Solution {
             }
         }
         
-		sc.close;
+	sc.close();
 		
         for(Integer number : list){
             System.out.print(number+" ");
