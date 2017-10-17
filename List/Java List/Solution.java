@@ -35,8 +35,10 @@ public class Solution {
             }
         }
         
-        for(int i = 0; i < list.size(); i++){
-            System.out.print(list.get(i)+" ");
+		sc.close;
+		
+        for(Integer number : list){
+            System.out.print(number+" ");
         }
         System.out.println();
     }
